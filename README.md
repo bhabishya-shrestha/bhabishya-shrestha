@@ -1,6 +1,8 @@
-## Hello! My name is Bhabishya and welcome to my GitHub.
+## Welcome to my GitHub! My name is Bhabishya Shrestha.
 
 I am currently a senior in Computer Engineering and a Fast Track Admit student specializing in Applied Machine Learning at The University of Texas at Dallas.
+
+[![Bhabishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhabishya-shrestha)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shrestha-bhabishya/).
 
