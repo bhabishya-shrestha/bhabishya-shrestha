@@ -8,6 +8,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shrestha-
 
 
 
-<img alt="Alt Text" src="https://media1.tenor.com/images/fb1ad27e285a72570552116d35164eab/tenor.gif?itemid=17125617">
+<img alt="Alt Text" src="https://media1.tenor.com/images/fb1ad27e285a72570552116d35164eab/tenor.gif?itemid=17125617" width="200" height="150">
+
 
 
